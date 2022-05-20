@@ -1,0 +1,2 @@
+const sum = (a,b,c) => a+b+c
+console.log ("sum of the digit :" + sum(2,3,4));
